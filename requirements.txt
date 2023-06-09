@@ -1,0 +1,5 @@
+pytse-client
+numpy
+torch
+matplotlib
+requests~=2.31.0
